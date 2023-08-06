@@ -1,0 +1,24 @@
+{
+  "games": [
+    {
+      "ID": 1,
+      "name": "Evie",
+      "icon": "https://raw.githubusercontent.com/LnlyPie/Evie/main/icon.png",
+      "description": "A pixel art adventure game!",
+      "developer": "LonelyPie",
+      "download_link_win": "https://github.com/LnlyPie/Evie/releases/latest/download/evie_win.zip",
+      "download_link_linux": "https://github.com/LnlyPie/Evie/releases/latest/download/evie_linux.zip",
+      "rss_feed": "https://hub.lonelypie.net/feed"
+    },
+    {
+      "ID": 2,
+      "name": "Game 2",
+      "icon": "game2_icon.png",
+      "description": "This is the second game description.",
+      "developer": "Developer 2",
+      "download_link_win": "https://example.com/game2_win.exe",
+      "download_link_linux": "https://example.com/game2_linux.tar.gz",
+      "rss_feed": "https://example.com/game2_rss_feed.xml"
+    }
+  ]
+}
