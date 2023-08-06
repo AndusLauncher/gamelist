@@ -12,19 +12,6 @@
       "exec_win": "Evie.exe",
       "exec_linux": "Evie.x86_64",
       "rss_feed": "https://hub.lonelypie.net/feed"
-    },
-    {
-      "ID": 2,
-      "name": "Game 2",
-      "version": "1.0.0",
-      "icon": "game2_icon.png",
-      "description": "This is the second game description.",
-      "developer": "Developer 2",
-      "download_link_win": "https://example.com/game2_win.exe",
-      "download_link_linux": "https://example.com/game2_linux.zip",
-       "exec_win": "executables/Game.exe",
-      "exec_linux": "executables/Game",
-      "rss_feed": "https://example.com/game2_rss_feed.xml"
     }
   ]
 }
