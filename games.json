@@ -15,5 +15,20 @@
       "exec_linux": "Evie.x86_64",
       "rss_feed": "https://hub.lonelypie.net/category/games/evie/feed"
     }
+    {
+      "ID": 2,
+      "name": "Temporary game",
+      "version": "1.0",
+      "devstatus": "Temporary",
+      "icon": "",
+      "description": "A temporary game.",
+      "developer": "TempDev",
+      "website": "https://temp.orary",
+      "download_link_win": "https://temp.orary/temp_game_download",
+      "download_link_linux": "https://temp.orary/temp_game_download",
+      "exec_win": "Temp.exe",
+      "exec_linux": "Temp.sh",
+      "rss_feed": "https://temp.orary/news"
+    }
   ]
 }
