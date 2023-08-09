@@ -18,7 +18,7 @@
     {
       "ID": 2,
       "name": "Temporary game",
-      "version": "1.0",
+      "version": "1.0.0",
       "devstatus": "Temporary",
       "icon": "",
       "description": "A temporary game.",
